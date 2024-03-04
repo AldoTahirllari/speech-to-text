@@ -21,11 +21,6 @@ This project using node >= 16.14 & yarn 1.22.19
 
 ### Installation
 
-```bash
-git clone https://github.com/danangekal/next-typescript-starter.git
-yarn install
-```
-
 #### Development
 
 ```bash
